@@ -1,0 +1,119 @@
+Interactable,Addressable,Content,Type
+3D Printer,"""RoR2/Base/Duplicator/Duplicator.prefab""",Base Game,3D Printers
+3D Printer Large,"""RoR2/Base/DuplicatorLarge/DuplicatorLarge.prefab""",Base Game,3D Printers
+Cleansing Pool,"""RoR2/Base/ShrineCleanse/ShrineCleanse.prefab""",Base Game,3D Printers
+Cleansing Pool (Sandy),"""RoR2/Base/ShrineCleanse/ShrineCleanseSandy Variant.prefab""",Base Game,3D Printers
+Cleansing Pool (Snowy),"""RoR2/Base/ShrineCleanse/ShrineCleanseSnowy Variant.prefab""",Base Game,3D Printers
+Mili-Tech Printer,"""RoR2/Base/DuplicatorMilitary/DuplicatorMilitary.prefab""",Base Game,3D Printers
+Overgrown 3D Printer,"""RoR2/Base/DuplicatorWild/DuplicatorWild.prefab""",Base Game,3D Printers
+Barrel,"""RoR2/Base/Barrel1/Barrel1.prefab""",Base Game,Barrel
+Void Stalk,"""RoR2/DLC1/VoidCoinBarrel/VoidCoinBarrel.prefab""",DLC 1 - SoTV,Barrel
+Assessement Focus,"""RoR2/DLC1/GameModes/InfiniteTowerRun/InfiniteTowerAssets/InfiniteTowerSafeWardAwaitingInteraction.prefab""",DLC 1 - SoTV,Charging Zones
+Assessement Focus - OFF,"""RoR2/DLC1/GameModes/InfiniteTowerRun/InfiniteTowerAssets/InfiniteTowerSafeWard.prefab""",DLC 1 - SoTV,Charging Zones
+Cell Vent,"""RoR2/Base/NullSafeWard/NullSafeWard.prefab""",DLC 1 - SoTV,Charging Zones
+Deep Void Signal,"""RoR2/DLC1/DeepVoidPortalBattery/DeepVoidPortalBattery.prefab""",DLC 1 - SoTV,Charging Zones
+Pillar of Blood,"""RoR2/Base/moon2/MoonBatteryBlood.prefab""",Base Game,Charging Zones
+Pillar of Design,"""RoR2/Base/moon2/MoonBatteryDesign.prefab""",Base Game,Charging Zones
+Pillar of Mass,"""RoR2/Base/moon2/MoonBatteryMass.prefab""",Base Game,Charging Zones
+Pillar of Soul,"""RoR2/Base/moon2/MoonBatterySoul.prefab""",Base Game,Charging Zones
+Primordial Teleporter,"""RoR2/Base/Teleporters/LunarTeleporter Variant.prefab""",Base Game,Charging Zones
+Primordial Teleporter Outer,"""RoR2/Base/Teleporters/LunarTeleporterProngs.prefab""",Base Game,Charging Zones
+Teleporter,"""RoR2/Base/Teleporters/Teleporter1.prefab""",Base Game,Charging Zones
+Adaptive Chest,"""RoR2/Base/CasinoChest/CasinoChest.prefab""",Base Game,Chests & Equipment
+Aurelionite Fragment,"""RoR2/DLC2/FragmentPotentialPickup.prefab""",DLC 2 - SoTS,Chests & Equipment
+Category Chest - Damage,"""RoR2/Base/CategoryChest/CategoryChestDamage.prefab""",Base Game,Chests & Equipment
+Category Chest - Healing,"""RoR2/Base/CategoryChest/CategoryChestHealing.prefab""",Base Game,Chests & Equipment
+Category Chest - Utility,"""RoR2/Base/CategoryChest/CategoryChestUtility.prefab""",Base Game,Chests & Equipment
+Chest,"""RoR2/Base/Chest1/Chest1.prefab""",Base Game,Chests & Equipment
+Cloacked Chest,"""RoR2/Base/Chest1StealthedVariant/Chest1StealthedVariant.prefab""",Base Game,Chests & Equipment
+Command Chest (Does not spawn naturally),"""RoR2/CommandChest/CommandChest.prefab""",Base Game,Chests & Equipment
+"Crashed Multishop ""Delivery""","""RoR2/DLC1/FreeChestTerminal/FreeChestTerminal.prefab""",DLC 1 - SoTV,Chests & Equipment
+Encrusted Cache,"""RoR2/DLC1/TreasureCacheVoid/LockboxVoid.prefab""",DLC 1 - SoTV,Chests & Equipment
+Equipment Barrel,"""RoR2/Base/EquipmentBarrel/EquipmentBarrel.prefab""",Base Game,Chests & Equipment
+Equipment Triple Shop,"""RoR2/Base/TripleShopEquipment/TripleShopEquipment.prefab""",Base Game,Chests & Equipment
+Large Category Chest - Damage,"""RoR2/DLC1/CategoryChest2/CategoryChest2Damage Variant.prefab""",DLC 1 - SoTV,Chests & Equipment
+Large Category Chest - Healing,"""RoR2/DLC1/CategoryChest2/CategoryChest2Utility Variant.prefab""",DLC 1 - SoTV,Chests & Equipment
+Large Category Chest - Utility,"""RoR2/DLC1/CategoryChest2/CategoryChest2Healing Variant.prefab""",DLC 1 - SoTV,Chests & Equipment
+Large Chest,"""RoR2/Base/Chest2/Chest2.prefab""",Base Game,Chests & Equipment
+Large Multishop Terminal,"""RoR2/Base/MultiShopLargeTerminal/MultiShopLargeTerminal.prefab""",Base Game,Chests & Equipment
+Large Triple Shop,"""RoR2/Base/TripleShopLarge/TripleShopLarge.prefab""",Base Game,Chests & Equipment
+Legendary Chest,"""RoR2/Base/GoldChest/GoldChest.prefab""",Base Game,Chests & Equipment
+Lunar Pod,"""RoR2/Base/LunarChest/LunarChest.prefab""",Base Game,Chests & Equipment
+Multishop Equipment Terminal,"""RoR2/Base/MultiShopEquipmentTerminal/MultiShopEquipmentTerminal.prefab""",Base Game,Chests & Equipment
+Multishop Terminal,"""RoR2/Base/MultiShopTerminal/MultiShopTerminal.prefab""",Base Game,Chests & Equipment
+Rusty Lockbox,"""RoR2/Base/TreasureCache/Lockbox.prefab""",Base Game,Chests & Equipment
+Scavenger's Sack,"""RoR2/Base/Scav/ScavBackpack.prefab""",Base Game,Chests & Equipment
+Scavenger's Sack (Lunar),"""RoR2/Base/ScavLunar/ScavLunarBackpack.prefab""",Base Game,Chests & Equipment
+Triple Shop,"""RoR2/Base/TripleShop/TripleShop.prefab""",Base Game,Chests & Equipment
+Void Cradle,"""RoR2/DLC1/VoidChest/VoidChest.prefab""",DLC 1 - SoTV,Chests & Equipment
+Void Potential Chest,"""RoR2/DLC1/VoidTriple/VoidTriple.prefab""",DLC 1 - SoTV,Chests & Equipment
+Combat Drone (Broken),"""RoR2/Base/Drones/Drone1Broken.prefab""",Base Game,Drones
+Emergency Drone (Broken),"""RoR2/Base/Drones/EmergencyDroneBroken.prefab""",Base Game,Drones
+Equipment Drone (Broken),"""RoR2/Base/Drones/EquipmentDroneBroken.prefab""",Base Game,Drones
+Healing Drone (Broken),"""RoR2/Base/Drones/Drone2Broken.prefab""",Base Game,Drones
+Incinerator Drone (Broken),"""RoR2/Base/Drones/FlameDroneBroken.prefab""",Base Game,Drones
+Lemurian Egg,"""RoR2/CU8/LemurianEgg/LemurianEgg.prefab""",Base Game,Drones
+Missile Drone (Broken),"""RoR2/Base/Drones/MissileDroneBroken.prefab""",Base Game,Drones
+TC-280 (Broken),"""RoR2/Base/Drones/MegaDroneBroken.prefab""",Base Game,Drones
+Turret (Broken),"""RoR2/Base/Drones/Turret1Broken.prefab""",Base Game,Drones
+Alloy Vulture Nest,"""RoR2/Base/shipgraveyard/VultureEggBody.prefab""",Base Game,Environment Specific
+Artifact Pickup,"""RoR2/Base/Common/SetpiecePickup.prefab""",Base Game,Environment Specific
+Aurelionite Geode,"""RoR2/DLC2/Geode.prefab""",DLC 2 - SoTS,Environment Specific
+Broken Robot,"""RoR2/Base/Treebot/TreebotUnlockInteractable.prefab""",Base Game,Environment Specific
+Cauldron (Green to Red),"""RoR2/Base/LunarCauldrons/LunarCauldron, GreenToRed Variant.prefab""",Base Game,Environment Specific
+Cauldron (Red to White),"""RoR2/Base/LunarCauldrons/LunarCauldron, RedToWhite Variant.prefab""",Base Game,Environment Specific
+Cauldron (White to Green),"""RoR2/Base/LunarCauldrons/LunarCauldron, WhiteToGreen.prefab""",Base Game,Environment Specific
+Chef's Wok,"""RoR2/DLC2/ChefWok.prefab""",DLC 2 - SoTS,Environment Specific
+Compound Generator,"""RoR2/Base/skymeadow/PortalDialerButton.prefab""",Base Game,Environment Specific
+Fan,"""RoR2/Base/frozenwall/FW_HumanFan.prefab""",Base Game,Environment Specific
+Glass Frog,"""RoR2/Base/moon/FrogInteractable.prefab""",Base Game,Environment Specific
+Halcyon Beacon,"""RoR2/Base/goldshores/GoldshoresBeacon.prefab""",Base Game,Environment Specific
+Laptop,"""RoR2/Base/skymeadow/PortalDialerEvent.prefab""",Base Game,Environment Specific
+Lunar Bud,RoR2/Base/LunarShopTerminal/LunarShopTerminal.prefab,Base Game,Environment Specific
+Lunar Seer,"""RoR2/Base/bazaar/SeerStation.prefab""",Base Game,Environment Specific
+Newt Altar,"""RoR2/Base/NewtStatue/NewtStatue.prefab""",Base Game,Environment Specific
+Obelisk,"""RoR2/Base/mysteryspace/MS_Obelisk.prefab""",Base Game,Environment Specific
+Pressure Plate,"""RoR2/Base/goolake/GLPressurePlate.prefab""",Base Game,Environment Specific
+Radio Scanner,"""RoR2/Base/RadarTower/RadarTower.prefab""",Base Game,Environment Specific
+Slab,"""RoR2/Base/LunarRecycler/LunarRecycler.prefab""",Base Game,Environment Specific
+Survivor Pod,"""RoR2/Base/SurvivorPod/SurvivorPod.prefab""",Base Game,Environment Specific
+Survivor Suspended In Time,"""RoR2/Base/Mage/MageUnlockPreExplosion.prefab""",Base Game,Environment Specific
+Timed Chest,"""RoR2/Base/TimedChest/TimedChest.prefab""",Base Game,Environment Specific
+Command Essence,"""RoR2/Base/Command/CommandCube.prefab""",Base Game,Pickups
+Generic Pickup,"""RoR2/Base/Common/GenericPickup.prefab""",Base Game,Pickups
+Logbook Entry,"""RoR2/Base/Common/LogPickup.prefab""",Base Game,Pickups
+Volatile Battery,"""RoR2/Base/QuestVolatileBattery/QuestVolatileBatteryWorldPickup.prefab""",Base Game,Pickups
+Artifact Portal,"""RoR2/Base/PortalArtifactworld/PortalArtifactworld.prefab""",Base Game,Portals
+Blue Portal,"""RoR2/Base/PortalShop/PortalShop.prefab""",Base Game,Portals
+Celestial Portal,"""RoR2/Base/PortalMS/PortalMS.prefab""",Base Game,Portals
+Deep Void Portal,"""RoR2/DLC1/DeepVoidPortal/DeepVoidPortal.prefab""",DLC 1 - SoTV,Portals
+Destination Portal,"""RoR2/DLC2/PM DestinationPortal.prefab""",DLC 2 - SoTS,Portals
+Gold Portal,"""RoR2/Base/PortalGoldshores/PortalGoldshores.prefab""",Base Game,Portals
+Green Portal,"""RoR2/DLC2/PortalColossus.prefab""",DLC 2 - SoTS,Portals
+Infinite Portal,"""RoR2/DLC1/VoidOutroPortal/VoidOutroPortal.prefab""",DLC 1 - SoTV,Portals
+Null Portal,"""RoR2/Base/PortalArena/PortalArena.prefab""",DLC 1 - SoTV,Portals
+Void Portal,"""RoR2/DLC1/PortalVoid/PortalVoid.prefab""",DLC 1 - SoTV,Portals
+Scrapper,"""RoR2/Base/Scrapper/Scrapper.prefab""",Base Game,Scrapper
+Altar of Gold,"""RoR2/Base/ShrineGoldshoresAccess/ShrineGoldshoresAccess.prefab""",Base Game,Shrines
+Halcyon Shrine,RoR2/DLC2/ShrineHalcyonite.prefab,DLC 2 - SoTS,Shrines
+Shrine of Blood,"""RoR2/Base/ShrineBlood/ShrineBlood.prefab""",Base Game,Shrines
+Shrine of Blood (Sandy),"""RoR2/Base/ShrineBlood/ShrineBloodSandy Variant.prefab""",Base Game,Shrines
+Shrine of Blood (Snowy),"""RoR2/Base/ShrineBlood/ShrineBloodSnowy Variant.prefab""",Base Game,Shrines
+Shrine of Chance,"""RoR2/Base/ShrineChance/ShrineChance.prefab""",Base Game,Shrines
+Shrine of Chance (Sandy),"""RoR2/Base/ShrineChance/ShrineChanceSandy Variant.prefab""",Base Game,Shrines
+Shrine of Chance (Snowy),"""RoR2/Base/ShrineChance/ShrineChanceSnowy Variant.prefab""",Base Game,Shrines
+Shrine of Combat,"""RoR2/Base/ShrineCombat/ShrineCombat.prefab""",Base Game,Shrines
+Shrine of Combat (Sandy),"""RoR2/Base/ShrineCombat/ShrineCombatSandy Variant.prefab""",Base Game,Shrines
+Shrine of Combat (Snowy),"""RoR2/Base/ShrineCombat/ShrineCombatSnowy Variant.prefab""",Base Game,Shrines
+Shrine of Order,"""RoR2/Base/ShrineRestack/ShrineRestack.prefab""",Base Game,Shrines
+Shrine of Order (Sandy),"""RoR2/Base/ShrineRestack/ShrineRestackSandy Variant.prefab""",Base Game,Shrines
+Shrine of Order (Snowy),"""RoR2/Base/ShrineRestack/ShrineRestackSnowy Variant.prefab""",Base Game,Shrines
+Shrine of Rebirth,"""RoR2/DLC2/ShrineRebirth.prefab""",DLC 2 - SoTS,Shrines
+Shrine of Shaping,"""RoR2/DLC2/ShrineColossusAccess.prefab""",DLC 2 - SoTS,Shrines
+Shrine of the Mountain,"""RoR2/Base/ShrineBoss/ShrineBoss.prefab""",Base Game,Shrines
+Shrine of the Mountain (Sandy),"""RoR2/Base/ShrineBoss/ShrineBossSandy Variant.prefab""",Base Game,Shrines
+Shrine of the Mountain (Snowy),"""RoR2/Base/ShrineBoss/ShrineBossSnowy Variant.prefab""",Base Game,Shrines
+Shrine of the Woods,"""RoR2/Base/ShrineHealing/ShrineHealingWard.prefab""",Base Game,Shrines
+Beacon: Resupply,"""RoR2/Base/Captain/CaptainSupplyDrop, EquipmentRestock.prefab""",Base Game,Skill Related
+Eclipse Zero Vending Machine,"""RoR2/DLC1/VendingMachine/VendingMachine.prefab""",DLC 1 - SoTV,Skill Related
+Quantum Tunnel,"""RoR2/Base/Gateway/Zipline.prefab""",Base Game,Skill Related
